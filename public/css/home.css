@@ -1,0 +1,16 @@
+/* to make text left in english page */
+.make_left_en{
+    text-align: left !important;
+ }
+
+ /* to make text right in english page */
+ .make_right_en{
+     text-align: right !important;
+ }
+
+ .make_right_ar{
+    text-align: right !important;
+}
+.make_left_ar{
+    text-align: left !important;
+ }
